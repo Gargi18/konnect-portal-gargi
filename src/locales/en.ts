@@ -11,7 +11,7 @@ export const en = {
     successText: 'Check your email for a link to reset your password. If it doesn’t appear within a few minutes, please check your spam folder.',
     successButton: 'Return to home page',
     heading: 'Recover Password',
-    subHeading: "Enter your user account's verified email address and we will send you a password reset link.",
+    subHeading: "Enter your user account's verified email address and we will send you a password reset link.  Edited....",
     placeholderEmail: 'Email',
     buttonIdle: 'Send password reset email',
     buttonSubmitting: 'Submitting',
